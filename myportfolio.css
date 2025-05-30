@@ -103,4 +103,9 @@ footer{
     border-radius: 50px;
     background-color: #2196f3;
     box-shadow: 1px 4px 6px rgba(0, 0, 0, 1);
+    transition: all 1s ease;
+}
+.Top:hover{
+    background-color: #076cbf;
+    transform: translateY(-10);
 }
